@@ -2,7 +2,7 @@
 
 # Hi, I’m Ayush Raj 👋
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrng815/giphy.gif" width="26px" alt="wave">
+<!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrng815/giphy.gif" width="26px" alt="wave"> -->
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Learning+by+building;Web+Developer+in+progress;Android+App+Explorer;Tech+Enthusiast" alt="Typing SVG" />
 
