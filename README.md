@@ -6,9 +6,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Learning+by+building;Web+Developer+in+progress;Android+App+Explorer;Tech+Enthusiast" alt="Typing SVG" />
 
-[![GitHub followers](https://img.shields.io/github/followers/ayushraj1122?style=social)](https://github.com/ayushraj1122)
-[![GitHub stars](https://img.shields.io/github/stars/ayushraj1122?style=social)](https://github.com/ayushraj1122)
-
 </div>
 
 ---
